@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**hieuhuynh1752/hieuhuynh1752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Huynh Thai Hieu. A freshly-graduated IT student from the University of Greenwich (Vietnam). I'm passionate in creating beatiful and effective website applications (and sometimes mobile applications, too!) using ReactJS and technologies that works around it, like React Native, Redux, and GraphQL.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Resume/CV](https://img.shields.io/badge/-Resume-01ae45?style=flat&labelColor=01ae45)](https://huynh-thai-hieu-cv.herokuapp.com/) [![Mail Badge]
+
+## 🔧 Technologies
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](#) 
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/hieuhuynh1752">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuhuynh1752&hide=html,css&theme=github_dark" />
+</a>
+</b>  
+<a href="https://github.com/hieuhuynh1752">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hieuhuynh1752&show_icons=true&theme=github_dark" alt="hieuhuynh1752's GitHub Stats" />
+</a>
