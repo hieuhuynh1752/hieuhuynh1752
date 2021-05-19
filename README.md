@@ -4,10 +4,10 @@ I am Huynh Thai Hieu. A freshly-graduated IT student from the University of Gree
 
 :mailbox: Reach me out!
 
-[![My Resume/CV](https://img.shields.io/badge/-Resume-01ae45?style=flat&labelColor=01ae45)](https://huynh-thai-hieu-cv.herokuapp.com/) [![Mail Badge]
+[![My Resume/CV](https://img.shields.io/badge/-Resume-01ae45?style=flat&labelColor=01ae45)](https://huynh-thai-hieu-cv.herokuapp.com/)
 
 ## 🔧 Technologies
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](#) [![Laravel Badge](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=whiteB)](#) 
 
 ## &#x1f4c8; GitHub Stats
 
