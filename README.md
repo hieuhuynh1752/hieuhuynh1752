@@ -1,6 +1,6 @@
 # Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Huynh Thai Hieu. A freshly-graduated IT student from the University of Greenwich (Vietnam). I'm passionate in creating beatiful and effective website applications (and sometimes mobile applications, too!) using ReactJS and technologies that works around it, like React Native, Redux, and GraphQL.
+I am Huynh Thai Hieu, a freshly-graduated IT student from the University of Greenwich (Vietnam). I'm passionate about creating beautiful and effective website applications (and sometimes mobile applications, too!) using ReactJS and technologies that work around it, like React Native, Redux, and GraphQL.
 
 :mailbox: Reach me out!
 
