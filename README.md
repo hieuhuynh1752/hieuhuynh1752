@@ -1,10 +1,8 @@
 # Welcome to my GitHub <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Huynh Thai Hieu, a freshly-graduated IT student from the University of Greenwich (Vietnam). I'm passionate about creating beautiful and effective website applications (and sometimes mobile applications, too!) using ReactJS and technologies that work around it, like React Native, Redux, and GraphQL.
+I am Huynh Thai Hieu, a front-end engineer with 2 years experience who participating as an Erasmus Mundus scholar in Software Engineering for Green Deal SE4GD. I'm passionate about creating beautiful and effective website applications (and sometimes mobile applications, too!) using ReactJS and technologies that work around it, like React Native, Redux, and GraphQL.
 
 :mailbox: Reach me out!
-
-[![My Resume/CV](https://img.shields.io/badge/-Resume-01ae45?style=flat&labelColor=01ae45)](https://huynh-thai-hieu-cv.herokuapp.com/)
 
 ## 🔧 Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![React Native Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![Redux Badge](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)](#) [![Laravel Badge](https://img.shields.io/badge/laravel-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=whiteB)](#) 
